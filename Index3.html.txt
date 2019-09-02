@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title style="font-size: 80px;text-align: center;color: blue;font-style: oblique;">Vivir sin desechos ya no es una utopía ‘hippie’</title>
+ </head>
+ <body>
+  <h1 style=font-size: 60px;text-align: left;font-family: Arial;>El movimiento ‘Zero Waste’, que promueve una vida libre de residuos</h1>
+      <p font-size: 16px; line-height: 2;letter-spacing: 1px;>Imaginen el parque madrileño de El Retiro rebosante de residuos en cada metro cuadrado de sus 118 hectáreas de extensión. Ahora piensen que sólo hiciera falta la basura de una veintena de personas para hacer realidad esa imagen. Es la estampa que se podría cumplir teniendo en cuenta las 6,4 hectáreas de territorio necesarias para satisfacer el consumo individual por año.</b> 
+      <p style=font-size: 70px;text-shadow: 2px 2px #fff000;font-style: italic;text-decoration-line: underline;><cite>Cristina Cañavete, propulsora del movimiento Zero Waste en España, cree que</cite>"la frase '¿ha traído su envase?' se convertirá en el mantra del futuro de cualquier supermercado".</p>
+  <h2 style=font-size: 60px; text-shadow: 2px 2px #fff000;>Algunos consejos para ser zero waste</h2>
+    <ul>
+    <li style= font-size: 16px;line-height: 2;letter-spacing: 1px;>Compra champú en barra para eliminar el uso de recipientes plásticos.</li>
+    <li style= font-size: 16px;line-height: 2;letter-spacing: 1px;>Consume en mercados locales.</li>
+    <li style= font-size: 16px;line-height: 2;letter-spacing: 1px;>Compra recipientes de vidrio para guardar la comida.</li>   
+    <li style= font-size: 16px;line-height: 2;letter-spacing: 1px;>Reduce lo que necesitas</li>
+    <li style= font-size: 16px;line-height: 2;letter-spacing: 1px;>Recicla</li>
+     </ul>
+  </body>
+</html>
